@@ -405,6 +405,7 @@
 				C2D880771A09C48D00B39F48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C2D880781A09C48D00B39F48 /* Build configuration list for PBXNativeTarget "Bullseye SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				C2D8807A1A09C48D00B39F48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
